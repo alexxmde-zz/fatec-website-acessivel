@@ -1,0 +1,89 @@
+@charset "UTF-8";
+
+body{
+    font-family: sans-serif;
+}
+img {
+    margin:0 auto;
+}
+#ul-idiomas li {
+    display:inline;
+}
+#faixa {
+    background-color:#9acfea;
+
+}
+
+#div-logo {
+    padding-left:0;
+}
+
+#nav-div {
+    margin-bottom:0;
+}
+#ul-nav {
+    margin-top:20px;
+}
+
+#ul-sobre-nos, #ul-contato, #ul-redes-sociais {
+    padding-left:0
+}
+#ul-sobre-nos li, #ul-contato li, #ul-redes-sociais li {
+    list-style:none;
+}
+#ul-nav{
+    font-size:28px;
+
+}
+
+#conteudo {
+    overflow:hidden;
+
+}
+.conteudo-box {
+  overflow:hidden;
+
+
+
+
+}
+.conteudo-box .col-md-12 h4{
+    padding-left:13px;
+    margin-top:10px;
+}
+
+.icon-bar {
+
+    background-color:#0f0f0f;
+}
+
+.navbar-header{
+    text-align:center;
+}
+
+.navbar-nav {
+    margin:0;
+}
+
+.conteudo-ouro {
+    background-color:#f0ad4e;
+}
+
+.conteudo-bronze {
+    background-color:#66512c;
+    color:white;
+}
+
+.conteudo-prata {
+    background-color:#999999;
+
+}
+
+#div-title h4 {
+    padding-left:60px;
+}
+
+#div-title h1 {
+    padding-left:30px;
+}
+
